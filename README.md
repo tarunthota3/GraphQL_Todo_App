@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GraphQL_Todo_App FrontEnd
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Apollo Client](https://www.apollographql.com/), a state management library used to manage data with GraphQL.
 
 ## Available Scripts
 
